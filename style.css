@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navLinks {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 5px;
+	margin: 20px auto;
+	}
+
+body {
+background-color: #f2f2f2;
+}
+
+#myName {
+
+font-size: 48;
+
+}
+
+#footer {
+text-align: center;
+color: green;
+margin: 50px auto;
+}
+
+/* Personal information */
+
+#bodyExp {
+
+background-color:#fff;
+margin-left: 25px;
+
+
+}
+
+table{
+padding: 20px 0;
+}
+	
+
+table,th,td {
+margin: auto;
+text-align: center;
+border: 1px solid green;
+width: 800px;
+height: 100px;
+border-collapse: collapse;
+}
+
+/* Contact information */
+
+#bodtCont {
+	background-color: #e6f2ff;
+	margin-left: 15px;
+	}
+	.inputStyle {
+		border: 1px solid red;
+	}
+
+	
+	/* referees information */
+	
+	#refBody {
+		background-color:  #e6f2ff;
+		margin-left: 15px;
+		
+		}
+	
+	/* Hobbies information */
+	#bodyHob {
+		background-color:#e6f2ff;
+		margin-left: 25px;
+		}
+	/* project information */
+	#projBody {
+		background-color:#e6f2ff;
+		margin-left: 25px;
+		}
+		
+		
+	
